@@ -1,0 +1,4 @@
+package: tindalos
+import:
+- package: github.com/fsnotify/fsnotify
+- package: github.com/BurntSushi/toml
